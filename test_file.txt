@@ -1,2 +1,3 @@
 # this is a test file
-# test the GH PR CLI
+# test the GH PR Command Line Interface
+Added a new line and made some changes
